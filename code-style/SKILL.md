@@ -1,9 +1,12 @@
 ---
-name: code-style
-description: 检查代码是否符合 IMWE 消息中心项目的编码规范，确保代码一致性和可维护性
-author: IMWE 消息中心团队
+name: java-code-style
+description: >
+  Best practices for writing Java backend code, including controllers, services, repositories,
+  naming conventions, exception handling, logging, mapper methods, and maintainable class/method structures.
+  Ensure consistent coding style, readable code, and adherence to common Java backend conventions during development.
+author: Imwe Team
 version: 1.0.0
-tags: [code-review, java, style, quality]
+tags: [java, backend, code-style, quality]
 tools: [file_read, grep]
 ---
 
